@@ -1,3 +1,7 @@
+# 읽기 전에 잠깐만요!
+해당 README.md는 AI로 번역되었습니다.
+
+
 # 츠유(TUYU) 프로젝트
 <img src="icon.jpg" height="125"><br>
 완벽한 츠유(TUYU) 노래 백업<br>
