@@ -2,10 +2,10 @@
 해당 README.md는 AI로 번역되었습니다.
 
 
-# 츠유(TUYU) 프로젝트
+# Prroject TUYU
 <img src="icon.jpg" height="125"><br>
 완벽한 츠유(TUYU) 노래 백업<br>
-문제가 있거나 누락된 곡이 있다면 새로운 이슈(Issue)나 풀 리퀘스트(Pull Request)를 열어주세요.<br>
+문제가 있거나 누락된 곡이 있다면 원본 repository에서 Issue나 Pull Request를 열어주세요.<br>
 
 # MV에 대하여
 모든 MV의 백업이 완료되었으며, 중국어와 일본어 자막이 포함되어 있습니다!
